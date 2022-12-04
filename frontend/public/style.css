@@ -1,0 +1,20 @@
+.navbar .collapse .navbar-nav .nav-item .nav-link{
+    color: white;
+}
+
+.navbar .navbar-brand{
+    color: white;
+}
+
+.account .card .card-headera{
+    color: white;
+}
+
+.home{
+    width: 300px;
+    height: 200px;
+}
+
+.account{
+    width: 700px;
+}
